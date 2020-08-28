@@ -20,3 +20,4 @@ foreach ($article as $key => $value) {  ?>
     $i++;
     $i = $i == 5 ? 1 : $i;
   } ?>
+  </div>
